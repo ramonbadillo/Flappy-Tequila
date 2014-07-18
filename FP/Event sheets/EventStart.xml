@@ -28,5 +28,15 @@
                 </action>
             </actions>
         </event-block>
+        <event-block sid="5110224087589258">
+            <conditions>
+                <condition id="-29" name="On load complete" sid="2663937735308101" type="System" />
+            </conditions>
+            <actions>
+                <action id="-16" name="Set opacity" sid="6456115740334174" type="start">
+                    <param id="0" name="Opacity">7</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>
