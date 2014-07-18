@@ -16,6 +16,9 @@
                 <action id="8" name="Set flipped" sid="7663478851117255" type="spritePipeBottom">
                     <param id="0" name="State">0</param>
                 </action>
+                <action id="-16" name="Set opacity" sid="3665468032704546" type="TiledBackground">
+                    <param id="0" name="Opacity">100</param>
+                </action>
             </actions>
         </event-block>
     </events>
