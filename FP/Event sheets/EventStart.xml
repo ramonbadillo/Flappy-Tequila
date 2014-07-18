@@ -19,13 +19,12 @@
                 <action id="8" name="Set flipped" sid="7663478851117255" type="spritePipeBottom">
                     <param id="0" name="State">0</param>
                 </action>
-<<<<<<< HEAD
-                <action id="-16" name="Set opacity" sid="3665468032704546" type="TiledBackground">
-                    <param id="0" name="Opacity">100</param>
-=======
                 <action id="3" name="Start" sid="8816351520627393" type="Sprite2">
                     <param id="0" name="From">0</param>
->>>>>>> origin/master
+                </action>
+                <action id="-22" name="Set angle toward position" sid="8719566499967123" type="TiledBackground">
+                    <param id="0" name="X">0</param>
+                    <param id="1" name="Y">0</param>
                 </action>
             </actions>
         </event-block>
