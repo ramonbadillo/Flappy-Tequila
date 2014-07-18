@@ -26,6 +26,10 @@
                     <param id="0" name="X">0</param>
                     <param id="1" name="Y">0</param>
                 </action>
+                <action id="-22" name="Set angle toward position" sid="1810531044265763" type="TopSpawner">
+                    <param id="0" name="X">0</param>
+                    <param id="1" name="Y">0</param>
+                </action>
             </actions>
         </event-block>
         <event-block sid="5110224087589258">
