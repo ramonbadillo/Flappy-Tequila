@@ -21,14 +21,22 @@
                 </action>
                 <action id="3" name="Start" sid="8816351520627393" type="Sprite2">
                     <param id="0" name="From">0</param>
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
                 </action>
                 <action id="-22" name="Set angle toward position" sid="8719566499967123" type="TiledBackground">
                     <param id="0" name="X">0</param>
                     <param id="1" name="Y">0</param>
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
                 </action>
+                <action id="-24" name="Move to top" sid="1810531044265763" type="TopSpawner" />
                 <action id="-9" name="Destroy" sid="7572011512908757" type="SpriteCharacter_" />
+                <action id="2" name="Stop" sid="6339960337784524" type="Sprite2" />
             </actions>
         </event-block>
         <event-block sid="5110224087589258">
